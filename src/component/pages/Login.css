@@ -67,6 +67,10 @@ h2 img{
   color: #333333;
 }
 
+.input-box1 a{
+  color: #fff;
+}
+
 .input-box1 input{
   border-radius: 8px;
   border: 1px solid #ddd;

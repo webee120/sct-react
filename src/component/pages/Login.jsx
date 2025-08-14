@@ -107,7 +107,7 @@ const Login =()=> {
                     <input type="checkbox" name="loginsave" id="loginsave" /><label htmlFor='loginsave'><h6>로그인 정보저장</h6></label>
                   </span>
 
-                <button type='submit'>로그인</button>
+                <button type='button'><a href="https://webee120.github.io/sct-jqery/">로그인</a></button>
               </div>{/* .input-box */}
 
               <div className="find-join">
