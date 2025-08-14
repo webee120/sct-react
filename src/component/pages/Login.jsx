@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom'; 
 import logo from '../../assets/login/lifemind_blue.png';
-import checkbox from '../../assets/login/checkbox_off.png';
 import back from '../../assets/login/back.png';
 import complete from '../../assets/login/complete.png';
 import passwordon from '../../assets/login/password_on.png';
